@@ -1,0 +1,6 @@
+{
+  "name": "chobi",
+  "description": "코드를 초등학생과 비개발자도 이해할 수 있게 쉬운 말과 일상 비유로 설명해요.",
+  "version": "1.0.0",
+  "author": { "name": "aijinikim" }
+}
